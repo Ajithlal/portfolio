@@ -45,7 +45,7 @@
     .box_detail{
         width: 50%;
         height: 100%;
-        // background-color: red;
+        // background-color: #2867B2;
         padding-left: 4rem;
         display: flex;
         flex-direction: column;
@@ -62,7 +62,7 @@
 
         .box_name{
             font-family: 'Roboto', sans-serif;
-            color:red;
+            color: #2867B2;
             font-size: 2.5rem;
             margin-bottom: 25px;
             position: relative;
@@ -74,7 +74,7 @@
                 bottom: 0;
                 width: 50%;
                 height: 2px;
-                background:red;
+                background: #2867B2;
                 transform: scaleX(0);
                 transform-origin: right;
                 transition: transform 250ms ease-in;
@@ -122,7 +122,7 @@
                 font-size: 20px;
                 cursor: pointer;
                 color: white;
-                background-color: red;
+                background-color: #2867B2;
                 box-shadow: 0 5px 5px; 
                 text-align: center;
                 transition: all 0.5s 0s ease-in;

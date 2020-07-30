@@ -11,9 +11,9 @@ const contact = () => {
                <Form/>
                <div className="div_div">
                    <h3 className="div_h3">Address and Phone</h3>
-                   <p className="div_p">Uttrakhand,India</p>
-                   <p className="div_p">+918439830083</p>
-                   <p className="div_p">shubhanshu1997jagwan@gmail.com</p>
+                   <p className="div_p">Jersey city, New Jersey</p>
+                   <p className="div_p">+1 2017441220</p>
+                   <p className="div_p">ajith.parackal@gmail.com</p>
                </div>
                 
             </div>

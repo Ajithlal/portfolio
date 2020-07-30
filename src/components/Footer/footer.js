@@ -4,7 +4,7 @@ import './footer.scss'
 const footer = () => {
     return (
         <div className="footer">
-            <p className="footer_p">This project is made by Shubhanshu Jagwan.</p>
+            <p className="footer_p">Built using react.</p>
             
         </div>
     );

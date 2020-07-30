@@ -11,7 +11,7 @@ const Aboutme = () => {
             </div>
             <div className="aboutme_text"> 
                 <h1 className="aboutme_h1">About Me</h1>
-                <p className="aboutme_p">Hello! I'm Shubhanshu Jagwan. I belong to Uttkrakhand,India.I am a CSE student at SRMIST.</p><br/>
+                <p className="aboutme_p">Hello! I'm Ajithlal Parackel. I am a web developer from New York.</p><br/>
                 <p className="aboutme_p">I like building websites.
                     I'm self-directed and motivated full-stack software developer experienced
                     in working effectively in dynamic environments.</p><br/>
